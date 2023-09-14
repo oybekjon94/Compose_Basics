@@ -15,5 +15,3 @@ dependencyResolutionManagement {
 rootProject.name = "Compose_Basics"
 include ':app'
 include ':helloandroid'
-include ':cardanimation'
-include ':switchon'
