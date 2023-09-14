@@ -16,3 +16,4 @@ rootProject.name = "Compose_Basics"
 include ':app'
 include ':helloandroid'
 include ':slotapi'
+include ':slotapidemo'

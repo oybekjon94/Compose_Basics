@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/helloandroid" />
             <option value="$PROJECT_DIR$/slotapi" />
+            <option value="$PROJECT_DIR$/slotapidemo" />
           </set>
         </option>
       </GradleProjectSettings>
