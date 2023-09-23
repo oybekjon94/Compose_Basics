@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-
+                    MainScreen()
                 }
             }
         }
@@ -45,9 +45,18 @@ fun MainScreen(){
         val height = 200.dp
         val width = 200.dp
 
-        TextCell(text = "1",Modifier.size(width = width,height = height).align(Alignment.TopStart))
-        TextCell(text = "2",Modifier.size(width = width,height = height).align(Alignment.BottomStart))
-        TextCell(text = "3",Modifier.size(width = width,height = height).align(Alignment.CenterEnd))
+        TextCell(text = "1",
+            Modifier
+                .size(width = width, height = height)
+                .align(Alignment.TopStart))
+        TextCell(text = "2",
+            Modifier
+                .size(width = width, height = height)
+                .align(Alignment.BottomStart))
+        TextCell(text = "3",
+            Modifier
+                .size(width = width, height = height)
+                .align(Alignment.CenterEnd))
     }
 }
 

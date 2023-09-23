@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/rowcolumn" />
             <option value="$PROJECT_DIR$/slotapi" />
             <option value="$PROJECT_DIR$/slotapidemo" />
+            <option value="$PROJECT_DIR$/textincompose" />
           </set>
         </option>
       </GradleProjectSettings>
