@@ -76,8 +76,6 @@ fun TextStyleDecoration(){
 
         Text(text = "Merging two or more text style", style = headingTextStyle)
         TextStyleMerge()
-
-
     }
 }
 
@@ -119,7 +117,6 @@ fun BasicsTextStyles(){
 
         Text(text = "Text with big font size",
         style = androidx.compose.ui.text.TextStyle(fontSize = 30.sp))
-
     }
 }
 
@@ -157,7 +154,6 @@ fun TextStyleMerge(){
                 )
             )
         ))
-
         Text(text = "Style with Typography",
         style = baseTextStyle.plus(MaterialTheme.typography.headlineLarge))
 
