@@ -18,15 +18,18 @@
             <option value="$PROJECT_DIR$/customlayout" />
             <option value="$PROJECT_DIR$/customlayout02" />
             <option value="$PROJECT_DIR$/helloandroid" />
+            <option value="$PROJECT_DIR$/imageincompose" />
             <option value="$PROJECT_DIR$/lazycolumnlazyrow" />
             <option value="$PROJECT_DIR$/modifierpractice" />
             <option value="$PROJECT_DIR$/modifiers2" />
             <option value="$PROJECT_DIR$/modifieruse" />
             <option value="$PROJECT_DIR$/modifieruse2" />
+            <option value="$PROJECT_DIR$/opappbarbottomnavigationwithscaffold" />
             <option value="$PROJECT_DIR$/rotateanimation" />
             <option value="$PROJECT_DIR$/rowcolumn" />
             <option value="$PROJECT_DIR$/slotapi" />
             <option value="$PROJECT_DIR$/slotapidemo" />
+            <option value="$PROJECT_DIR$/textfield" />
             <option value="$PROJECT_DIR$/textincompose" />
             <option value="$PROJECT_DIR$/textstyle" />
           </set>
